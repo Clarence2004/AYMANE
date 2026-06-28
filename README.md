@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **wldfatima02@gmail.com**
 
-- 📄 Know about my experiences [Ganzhou, Jiangxi, China 3D AI Data Labeling Practitioner 2 Months ○ Conducted professional 3D AI data annotation for computer vision model training, including 3D point cloud calibration and 3D scene data optimization. ○ Used WuwenData platform to label, correct and standardize 3D datasets, ensuring high accuracy for model training and iteration. ○ Complied with industrial labeling standards to improve dataset consistency and quality. 1/2 College LaSalle, Tangier, Morocco GGJ(Global Game Jam) ○ #GGJ22, #GGJ23 Certificate Of Participation](Ganzhou, Jiangxi, China 3D AI Data Labeling Practitioner 2 Months ○ Conducted professional 3D AI data annotation for computer vision model training, including 3D point cloud calibration and 3D scene data optimization. ○ Used WuwenData platform to label, correct and standardize 3D datasets, ensuring high accuracy for model training and iteration. ○ Complied with industrial labeling standards to improve dataset consistency and quality. 1/2 College LaSalle, Tangier, Morocco GGJ(Global Game Jam) ○ #GGJ22, #GGJ23 Certificate Of Participation)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
